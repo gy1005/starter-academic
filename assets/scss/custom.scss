@@ -1,0 +1,22 @@
+// Override this file to add your own SCSS styling.
+
+.article-metadata-publication {
+  overflow: hidden;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+  color: #404040;
+  /* color: {{ .Get "link" }}; */
+}
+
+.dark .article-metadata-publication {
+  color: #fff;
+}
+
+.article-metadata-award {
+  overflow: hidden;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+  font-weight: bold;
+
+  color:rgb(178, 34, 34)
+}
