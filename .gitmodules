@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/gy1005/gy1005.github.io.git
+	branch = master
