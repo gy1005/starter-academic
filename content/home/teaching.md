@@ -1,24 +1,40 @@
 +++
-# Tag Cloud widget.
-widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
 
-[content]
-  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
-  taxonomy = "tags"
-  
-  # Choose how many tags you would like to display (0 = all tags)
-  count = 20
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
-[design]
-  # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min = 0.7
-  font_size_max = 2.0
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Head Teaching Assistant"
+  company = "ECE4750/CS4420 Computer Architecture"
+  company_url = "https://www.csl.cornell.edu/courses/ece4750/"
+  location = ""
+  date_start = "2018-08-21"
+  date_end = "2018-12-18"
+  description = """
+  """
+
+[[experience]]
+  title = "Head Teaching Assistant"
+  company = "ECE4750/CS4420 Computer Architecture"
+  company_url = "https://www.csl.cornell.edu/courses/ece4750/"
+  location = ""
+  date_start = "2019-08-21"
+  date_end = "2019-12-18"
+  description = """
+  """
 
 +++
-  - Head TA: [ECE4750/CS4420 Computer Architecture (Fall 2018, Fall 2019)](https://www.csl.cornell.edu/courses/ece4750/)
