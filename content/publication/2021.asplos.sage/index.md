@@ -22,7 +22,7 @@ publication = "To appear in 26th ACM International Conference on Architectural S
 publication_short = "[ASPLOS'21](https://asplos-conference.org/)"
 
 # Abstract.
-abstract = "Cloud applications are increasingly shifting from large monolithic services, to complex graphs of loosely-coupled microservices. Despite their advantages, microservices also introduce cascading QoS violations in cloud applications, which are difficult to diagnose and correct. We present Sage, a ML-driven root cause analysis system for interactive cloud microservices. Sage leverages unsupervised learning models to circumvent the overhead of trace labeling, determines the root cause of unpredictable performance online, and applies corrective actions to restore performance. On experiments on both dedicated local clusters and large GCE clusters we show that Sage achieves high root cause detection accuracy and predictable performance."
+abstract = ""
 
 
 # Summary. An optional shortened abstract.
@@ -55,7 +55,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "2020.mlsys.sage.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -64,7 +64,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_cite = "cite.bib"
+url_cite = ""
 
 
 # Custom links (optional).
