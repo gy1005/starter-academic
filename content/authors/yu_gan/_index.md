@@ -76,6 +76,6 @@ user_groups:
 
 I am a 5th year Ph.D. candidate in Electrical and Computer Engineering at [Cornell University](https://www.cornell.edu/), advised by Professor [Christina Delimitrou](https://www.csl.cornell.edu/~delimitrou/). I am interested in cloud computing, microservices, ML for systems and computer architecture. My research focuses on building and managing large-scale microservices in datacenters, improving their performance and resource efficiency. Before studying at Cornell, I obtained my B.Eng. degree in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2016.
 
-I was a Ph.D. software engineering intern and student researcher at [Google](https://ai.google/) in 2018, 2019, and 2020, hosted by [David Lo](https://ai.google/research/people/DavidLo), [Sundar Dev](https://www.linkedin.com/in/sundardev/) and Xi Qian. During my internship, I did research on using machine learning to improve resource efficiency and detect performance issues of large scale distributed services in Google Cloud.
+I was a Ph.D. software engineering intern and student researcher at [Google](https://ai.google/) in 2018, 2019, and 2020, hosted by [David Lo](https://ai.google/research/people/DavidLo), [Sundar Dev](https://www.linkedin.com/in/sundardev/) and Qian Xi. During my internship, I did research on using machine learning to improve resource efficiency and detect performance issues of large scale distributed services in Google Cloud.
 
 🌟 __I am actively looking for full-time job opportunities in industry in both China and North America.__
