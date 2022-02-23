@@ -18,7 +18,7 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Computer Architecture Letters"
-publication_short = "[CAL](https://www.computer.org/csdl/journal/ca)"
+publication_short = "[IEEE CAL](https://www.computer.org/csdl/journal/ca)"
 
 # Abstract.
 abstract = "Cloud services have recently undergone a shift from monolithic applications to microservices, with hundreds or thousands of loosely-coupled microservices comprising the end-to-end application. Microservices present both opportunities and challenges when optimizing for quality of service (QoS) and cloud utilization. In this paper we explore the implications cloud microservices have on system bottlenecks, and datacenter server design. We first present and characterize an end-to-end application built using tens of popular open-source microservices that implements a movie renting and streaming service, and is modular and extensible. We then use the end-to-end service to study the scalability and performance bottlenecks of microservices, and highlight implications they have on the design of datacenter hardware. Specifically, we revisit the long-standing debate of brawny versus wimpy cores in the context of microservices, we quantify the I-cache pressure they introduce, and measure the time spent in computation versus communication between microservices over RPCs. As more cloud applications switch to this new programming model, it is increasingly important to revisit the assumptions we have previously used to build and manage cloud systems."
@@ -52,7 +52,7 @@ projects = []
 #   Otherwise, set `slides = ""`.
 slides = ""
 
-award = "Selected as Best of CAL for 2018 \\\n Received the Best Paper Award from the IEEE CS Publications Board for CAL 2018" 
+award = "Selected as Best of CAL for 2018. \\\n Received the Best Paper Award from the IEEE CS Publications Board for CAL 2018." 
 
 # Links (optional).
 url_pdf = "2018.cal.deathstarbench.pdf"

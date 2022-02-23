@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM International Conference on Architectural Support for Programming Languages and Operating Systems"
-publication_short = "[ASPLOS'19](https://asplos-conference.org/2019/)"
+publication_short = "[ACM ASPLOS'19](https://asplos-conference.org/2019/)"
 
 # Abstract.
 abstract = "Cloud services have recently started undergoing a major shift from monolithic applications, to graphs of hundreds of loosely-coupled microservices. Microservices fundamentally change a lot of assumptions current cloud systems are designed with, and present both opportunities and challenges when optimizing for quality of service (QoS) and utilization. In this paper we explore the implications microservices have across the cloud system stack. We first present DeathStarBench, a novel, open-source benchmark suite built with microservices that is representative of large end-to-end services, modular and extensible. DeathStarBench includes a social network, a media service, an e-commerce site, a banking system, and IoT applications for coordination control of UAV swarms. We then use DeathStarBench to study the architectural characteristics of microservices, their implications in networking and operating systems, their challenges with respect to cluster management, and their trade-offs in terms of application design and programming frameworks. Finally, we explore the tail at scale effects of microservices in real deployments with hundreds of users, and highlight the increased pressure they put on performance predictability."
@@ -65,7 +65,7 @@ url_poster = ""
 url_source = ""
 url_cite = "cite.bib"
 
-award = "Selected in IEEE Micro's Top Picks special issue of \"most significant papers in computer architecture based on novelty and long-term impact\" for 2019"
+award = "Selected in IEEE Micro's Top Picks special issue of \"most significant papers in computer architecture based on novelty and long-term impact\" for 2019."
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

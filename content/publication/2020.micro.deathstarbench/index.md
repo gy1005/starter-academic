@@ -18,6 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Micro Special Issue on Top Picks from the Computer Architecture Conferences"
+publication_short = "IEEE Micro"
 
 # Abstract.
 abstract = "Cloud services progressively shift from monolithic applications to complex graphs of loosely-coupled microservices. This article aims at understanding the implications microservices have across the system stack, from hardware acceleration and server design, to operating systems and networking, cluster management, and programming frameworks. Toward this effort, we have designed an open-sourced DeathstarBench, a benchmark suite for interactive microservices that is both representative and extensible."

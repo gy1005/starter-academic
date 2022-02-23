@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transactions on Communications"
-publication_short = "[TCOM](https://www.comsoc.org/publications/journals/ieee-tcom)"
+publication_short = "[IEEE TCOM](https://www.comsoc.org/publications/journals/ieee-tcom)"
 
 # Abstract.
 abstract = "Collaborative spectrum sensing is an effective method to improve detection rates in cognitive radio networks. However, it is vulnerable to spectrum sensing data falsification (SSDF) attacks when malicious secondary users (SUs) report fraudulent sensing data. In order to improve the robustness, numerous attack prevention schemes have been proposed to identify malicious SUs. Nevertheless, most of them neglect to incentivize SUs to send truthful reports. An incentive method based on peer-prediction is proposed to identify malicious suspects, punish attackers, and incentivize SUs to send truthful reports simultaneously for decision fusion. Moreover, continuous peer-prediction derived from the binary case is introduced, which is capable of preventing attacks in the continuous domain. Theoretical analysis and simulation results demonstrate that honest SUs are rewarded for accurate and truthful sensing results, while malicious SUs incur penalty for making falsified sensing reports. A significant improvement of detection rates is obtained by the proposed scheme when there are no more than half of malicious SUs conducting SSDF attacks."

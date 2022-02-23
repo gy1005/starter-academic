@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM International Conference on Architectural Support for Programming Languages and Operating Systems "
-publication_short = "[ASPLOS'19](https://asplos-conference.org/2019/)"
+publication_short = "[ACM ASPLOS'19](https://asplos-conference.org/2019/)"
 
 # Abstract.
 abstract = "Performance unpredictability is a major roadblock towards cloud adoption, and has performance, cost, and revenue ramifications. Predictable performance is even more critical as cloud services transition from monolithic designs to microservices. Detecting QoS violations after they occur in systems with microservices results in long recovery times, as hotspots propagate and amplify across dependent services. We present Seer, an online cloud performance debugging system that leverages deep learning and the massive amount of tracing data cloud systems collect to learn spatial and temporal patterns that translate to QoS violations. Seer combines lightweight distributed RPC-level tracing, with detailed low-level hardware monitoring to signal an upcoming QoS violation, and diagnose the source of unpredictable performance. Once an imminent QoS violation is detected, Seer notifies the cluster manager to take action to avoid performance degradation altogether. We evaluate Seer both in local clusters, and in large-scale deployments of end-to-end applications built with microservices with hundreds of users. We show that Seer correctly anticipates QoS violations 91% of the time, and avoids the QoS violation to begin with in 84% of cases. Finally, we show that Seer can identify applicationlevel design bugs, and provide insights on how to better architect microservices to achieve predictable performance."
@@ -64,7 +64,7 @@ url_poster = ""
 url_source = ""
 url_cite = "cite.bib"
 
-award = "Invited to SIGOPS Operating Systems Review"
+award = "Invited to SIGOPS Operating Systems Review."
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

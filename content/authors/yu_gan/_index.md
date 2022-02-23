@@ -6,12 +6,12 @@ title: Yu Gan
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Cloud Computing
+role: Technical Expert
 
 # Organizations/Affiliations
 organizations:
-- name: Computer Systems Lab (CSL), Cornell University
-  url: "http://www.csl.cornell.edu"
+- name: Alibaba Cloud
+  url: "https://www.alibabacloud.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Cloud Computing, Microservices, ML for Systems, and Computer Architecture.
@@ -26,7 +26,7 @@ education:
   courses:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: Cornell University
-    year: Dec 2021 (expected)
+    year: Dec 2021
   - course: M.S. in Electrical and Computer Engineering
     institution: Cornell University
     year: May 2020
@@ -74,8 +74,10 @@ user_groups:
 - Visitors
 ---
 
-I am a 5th year Ph.D. candidate in Electrical and Computer Engineering at [Cornell University](https://www.cornell.edu/), advised by Professor [Christina Delimitrou](https://www.csl.cornell.edu/~delimitrou/). I am interested in cloud computing, microservices, ML for systems and computer architecture. My research focuses on building and managing large-scale microservices in datacenters, improving their performance and resource efficiency. Before studying at Cornell, I obtained my B.Eng. degree in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2016.
+I am a Technical Expert in [Server Log Service (SLS)](https://www.aliyun.com/product/sls/) at [Alibaba Cloud](https://www.alibabacloud.com/) working on cloud telemetry and AIOps. Before joining in Alibaba, I received my Ph.D. degree in Electrical and Computer Engineering at [Computer Systems Laboratory (CSL)](https://www.csl.cornell.edu/), [Cornell University](https://www.cornell.edu/), advised by Professor [Christina Delimitrou](https://www.csl.cornell.edu/~delimitrou/). I am interested in cloud computing, microservices, ML for systems and computer architecture. My research focuses on building and managing large-scale microservices in datacenters, improving their performance and resource efficiency. Before studying at Cornell, I obtained my B.Eng. degree in Electronic Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2016.
 
 I was a Ph.D. software engineering intern and student researcher at [Google](https://ai.google/) in 2018, 2019, 2020, and 2021, hosted by [David Lo](https://ai.google/research/people/DavidLo), [Sundar Dev](https://www.linkedin.com/in/sundardev/) and Qian Xi. During my internship, I did research on using machine learning to improve resource efficiency and detect performance issues of large scale distributed services in Google Cloud.
 
-🌟 __I am actively looking for full-time job opportunities in industry in both China and North America.__
+I have been fortunate to receive Jacobs Fellowship in 2016 and two IEEE Micro TopPicks Awards in 2020 and 2022.
+
+<!-- 🌟 __I am actively looking for full-time job opportunities in industry in both China and North America.__ -->

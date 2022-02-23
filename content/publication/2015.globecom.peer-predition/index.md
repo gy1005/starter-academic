@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "2015 IEEE Global Communications Conference"
-publication_short = "[GLOBECOM 2015](https://globecom2015.ieee-globecom.org/)"
+publication_short = "[IEEE GLOBECOM 2015](https://globecom2015.ieee-globecom.org/)"
 
 # Abstract.
 abstract = "Collaborative spectrum sensing is an effective method to improve the detection rate in cognitive radio. However, it is vulnerable to spectrum sensing data falsification attacks. In order to improve the robustness, numerous attack prevention schemes have been proposed to identify malicious secondary users (SUs). Nevertheless, most of them neglect to incentivize SUs to send truthful reports. Therefore, an incentive method based on Private-Prior Peer-Prediction with approximate subjective priors is proposed to identify malicious suspects and punish attackers when falsifying the sensing data simultaneously. The theoretical analysis and simulation results demonstrate that honest SUs are rewarded by accurate and truthful sensing results while malicious SUs receive heavy loss for making falsified sensing results. Moreover, a significant improvement of detection rates is demonstrated when there are a large number of malicious SUs conducting cooperative attacks compared to the pure majority rule scheme."

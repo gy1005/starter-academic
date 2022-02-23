@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE International Symposium on Performance Analysis of Systems and Software"
-publication_short = "[ISPASS'19](https://www.ispass.org/ispass2019/)"
+publication_short = "[IEEE ISPASS'19](https://www.ispass.org/ispass2019/)"
 
 # Abstract.
 abstract = "Current cloud services are moving away from monolithic designs and towards graphs of many looselycoupled, single-concerned microservices. Microservices have several advantages, including speeding up development and deployment, allowing specialization of the software infrastructure, and helping with debugging and error isolation. At the same time they introduce several hardware and software challenges. Given that most of the performance and efficiency implications of microservices happen at scales larger than what is available outside production deployments, studying such effects requires designing the right simulation infrastructures. We present µqSim, a scalable and validated queueing network simulator designed specifically for interactive microservices. µqSim provides detailed intra- and inter-microservice models that allow it to faithfully reproduce the behavior of complex, many-tier applications. µqSim is also modular, allowing reuse of individual models across microservices and end-toend applications. We have validated µqSim both against simple and more complex microservices graphs, and have shown that it accurately captures performance in terms of throughput and tail latency. Finally, we use µqSim to model the tail at scale effects of request fanout, and the performance impact of power management in latency-sensitive microservices."
